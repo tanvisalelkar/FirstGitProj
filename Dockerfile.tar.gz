@@ -1,2 +1,2 @@
-FROM localhost:5000/whalesay
+FROM localhost:5000/pagalabha
 
