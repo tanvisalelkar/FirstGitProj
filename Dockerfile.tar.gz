@@ -1,2 +1,2 @@
-FROM localhost:5000/pagalabha
+FROM localhost:5000/pagalabha:latest
 
