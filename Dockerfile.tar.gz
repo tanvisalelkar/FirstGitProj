@@ -1,2 +1,2 @@
-FROM localhost:5000/pagalabha:latest
+FROM localhost:5000/nayaubuntu:v2.0
 
