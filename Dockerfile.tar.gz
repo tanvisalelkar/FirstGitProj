@@ -1,2 +1,2 @@
-FROM localhost:5000/whalesay:latest
+FROM localhost:5000/whalesay
 
