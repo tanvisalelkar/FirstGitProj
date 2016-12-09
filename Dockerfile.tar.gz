@@ -1,2 +1,3 @@
-FROM localhost:5000/nayaubuntu:v2.0
-
+FROM abha10/firstgitproj:latest
+RUN apt-get -y update && apt-get install -y fortunes
+CMD /usr/games/fortune -a | cowsay
